@@ -27,7 +27,7 @@ This guide explains how to deploy a simple full-stack application where:
    - Custom TCP (3000)
     ![ec2-security-group](images/ec2-security-group.png)
 
- 5. ec2 successfully launched
+ 5. **EC2** successfully launched
     ![ec2-success](images/ec2-success.png)
 
 ---
